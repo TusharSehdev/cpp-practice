@@ -1,6 +1,5 @@
 #include <iostream>
 using namespace std;
-
 int PowXN(int x, int n)
 {
     int ans = 1;
